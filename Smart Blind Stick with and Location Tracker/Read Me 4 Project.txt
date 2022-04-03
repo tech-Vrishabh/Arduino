@@ -1,0 +1,8 @@
+Step 1 DO connection as mentioned in pdf.
+
+step 2 Copy paste the code in Arduino IDE.
+
+Step 3 Upload the code to Arduino.
+
+
+	Yuuuuhhhhh!!!!!! Done!!!
